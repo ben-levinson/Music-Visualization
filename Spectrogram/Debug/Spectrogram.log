@@ -1,0 +1,24 @@
+﻿  main.cpp
+  Spectrogram.cpp
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(21): warning C4244: '=': conversion from 'sf::Uint64' to 'int', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(70): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(87): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(89): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(91): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(93): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(94): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(94): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(99): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(107): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(115): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\ben\documents\visual studio 2017\projects\spectrogram\spectrogram\spectrogram.cpp(117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Spectrogram.vcxproj -> C:\Users\Ben\documents\visual studio 2017\Projects\Spectrogram\Debug\Spectrogram.exe
+  Spectrogram.vcxproj -> C:\Users\Ben\documents\visual studio 2017\Projects\Spectrogram\Debug\Spectrogram.pdb (Partial PDB)
